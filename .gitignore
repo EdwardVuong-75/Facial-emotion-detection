@@ -42,6 +42,10 @@ coco/
 coco128/
 VOC/
 
+# Facial emotion Dataset
+FacialEmotionRecognition/
+
+
 # MATLAB GitIgnore -----------------------------------------------------------------------------------------------------
 *.m~
 *.mat
